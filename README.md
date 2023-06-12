@@ -1,4 +1,3 @@
-Here's an example of a potential readme for a nginx extension that selects JSON output as a GraphQL query:
 
 # GraphQL-JSON Nginx Extension
 
